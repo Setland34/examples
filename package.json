@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "hardhat": "^2.15.0"
+    "hardhat": "^2.22.18"
   },
   "engines": {
     "node": ">=16"
